@@ -1,5 +1,4 @@
 # KahootBotGenerator
 A generator for kahoot bots
-made by: (instagram) @georgeknowsmemes
-original source code credit: https://repl.it/@codingMASTER398/Kahootfloodweeblycom
-Please do not copy this code/files without crediting me.
+Originally Made By Me: Jason Skidmore
+Feel Free to fork or use this to make others of your own but please credit me.
